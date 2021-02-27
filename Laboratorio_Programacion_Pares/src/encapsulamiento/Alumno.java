@@ -1,7 +1,9 @@
 package encapsulamiento;
 
-/*
- * Jorge Borrero
+/**
+ * @author JORGE
+ * @author BRYAN
+ *
  */
 
 public class Alumno {
@@ -10,7 +12,6 @@ public class Alumno {
 	private String email;
 	public String nombre;
 	public String apellidos;
-	
 	
 	void setNoControl(int NC) {
 		this.noControl = NC;

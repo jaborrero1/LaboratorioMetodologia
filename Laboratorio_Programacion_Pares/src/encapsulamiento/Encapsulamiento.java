@@ -1,7 +1,9 @@
 package encapsulamiento;
 
-/*
- * Jorge Borrero
+/**
+ * @author JORGE
+ * @author BRYAN
+ *
  */
 
 public class Encapsulamiento {

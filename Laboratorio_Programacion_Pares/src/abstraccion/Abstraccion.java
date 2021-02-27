@@ -1,7 +1,9 @@
 package abstraccion;
 
-/*
- * Jorge Borrero
+/**
+ * @author JORGE
+ * @author BRYAN
+ *
  */
 
 public class Abstraccion {
