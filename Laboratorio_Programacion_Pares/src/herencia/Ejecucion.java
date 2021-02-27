@@ -3,6 +3,7 @@ package herencia;
 /**
  * 
  * @author BRYAN
+ * @author JORGE
  *
  */
 public class Ejecucion {

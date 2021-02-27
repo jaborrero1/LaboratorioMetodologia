@@ -2,8 +2,10 @@ package herencia;
 /**
  * 
  * @author BRYAN
+ * @author JORGE
  *
  */
+
 public class Persona {
 
 	protected String nombre;
