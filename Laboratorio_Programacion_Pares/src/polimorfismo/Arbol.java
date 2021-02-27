@@ -3,8 +3,10 @@ package polimorfismo;
 /**
  * 
  * @author BRYAN
+ * @author JORGE
  *
  */
+
 public class Arbol {
 
 	String tipo;
