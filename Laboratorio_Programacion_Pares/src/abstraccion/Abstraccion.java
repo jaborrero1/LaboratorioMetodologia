@@ -5,7 +5,7 @@ package abstraccion;
  * @author BRYAN
  *
  */
-
+// Andamos probando nuevamente desde el GitHub Desktop
 public class Abstraccion {
 
 	public static void main(String[] args) {
